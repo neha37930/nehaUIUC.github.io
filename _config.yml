@@ -32,7 +32,7 @@ paths:
   # rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
-repository: namanuiuc/namanuiuc.github.io
+repository: neha37930/NehaUIUC.github.io
 repository_tree: master
 
 ## Language & timezone ##
